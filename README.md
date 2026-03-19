@@ -1,2 +1,3 @@
-# pro-data-pipeline-knpw
-Automated issue comment bot repository
+# Pro Data Pipeline Knpw
+
+Automated issue comment bot repository.
